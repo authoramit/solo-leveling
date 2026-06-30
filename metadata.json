@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveling System",
+  "description": "A Modular RPG Productivity Operating System that transforms your habits, tasks, and calendar into an immersive level progression system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
